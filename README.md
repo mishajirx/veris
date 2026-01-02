@@ -1,4 +1,5 @@
 # 🛡️ SecureGuard - AI-Powered Email Scam Detection
+## HopHacks MLH Hackathon Project
 
 SecureGuard is a comprehensive email security solution that combines a Chrome extension with a powerful backend API to detect phishing, scams, and malicious emails in real-time. It works seamlessly with Gmail and Outlook webmail clients.
 
